@@ -14,7 +14,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<app.runtime>4.1.5</app.runtime>
-		<mule.maven.plugin.version>3.5.4</mule.maven.plugin.version>
+		<mule.maven.plugin.version>3.6.3</mule.maven.plugin.version>
 	</properties>
 
 	<build>
@@ -71,7 +71,6 @@
 			<version>1.0.1</version>
 			<classifier>mule-plugin</classifier>
 		</dependency> -->
-		
 		<!-- Secured configuration properties or Mule Credit Vault -->
 		<dependency>
 			<groupId>com.mulesoft.modules</groupId>
